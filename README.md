@@ -1,18 +1,18 @@
 # Adv Auto Filter Bot V2
 
 <p align="center">
-  <a href="https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2/stargazers">
-    <img src="https://img.shields.io/github/stars/CrazyBotsz/Adv-Auto-Filter-Bot-V2?style=social">
+  <a href="https://github.com/CHEKUTHAN098/Adv-Auto-Filter-Bot-V2">
+    <img src="https://github.com/CHEKUTHAN098/Adv-Auto-Filter-Bot-V2">
 
   </a>
   
-  <a href="https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2/fork">
-    <img src="https://img.shields.io/github/forks/CrazyBotsz/Adv-Auto-Filter-Bot-V2?label=Fork&style=social">
+  <a href="https://github.com/CHEKUTHAN098/Adv-Auto-Filter-Bot-V2">
+    <img src="https://github.com/CHEKUTHAN098/Adv-Auto-Filter-Bot-V2">
 
   </a>  
 </p>
 
-__This Is Just An Simple Advance Auto Filter Bot Complete Rewritten Version Of [Adv-Filter-Bot](https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot)..__
+__This Is Just An Simple Advance Auto Filter Bot Complete Rewritten Version Of [Adv-Filter-Bot](https://github.com/CHEKUTHAN098/Adv-Auto-Filter-Bot-V2)..__
 
 __Just Sent Any Text As Query It Will Search For All Connected Chat's Files In Its MongoDB And Reply You With The Message Link As A Button__
 
@@ -107,4 +107,4 @@ Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
  - Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
  - Thanks To SpEcHiDe For His Awesome [DeleteMessagesRoBot](https://github.com/SpEcHiDe/DeleteMessagesRoBot)
- - [Thanks To Me 👀](https://github.com/AlbertEinsteinTG)
+ - [Thanks To Me 👀](https://github.com/CHEKUTHAN098/Adv-Auto-Filter-Bot-V2)
